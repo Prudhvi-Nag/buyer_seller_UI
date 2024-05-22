@@ -2,7 +2,12 @@ import React from 'react'
 
 const Buyer = () => {
     return (
-        <div>Buyer</div>
+        <div>
+
+            Buyer
+
+
+        </div>
     )
 }
 
